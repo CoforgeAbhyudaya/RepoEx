@@ -1,2 +1,4 @@
 Welcome Abhyudaya
 Welcome to Git World
+It is great platform for the exchange of data.
+Helps Developers
